@@ -1,2 +1,4 @@
 # BOM DIA
  Primeiro repositorio versionado
+
+Repositório criado durante uma aula ao vivo!
